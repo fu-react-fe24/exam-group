@@ -26,7 +26,7 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
 - Vid klick: gör en **specifik sökning** med imdbID:  
   `http://www.omdbapi.com/?apikey=[yourkey]&plot=full&i=[imdbID]`
 - Visa mer detaljerad info om filmen (gärna på en egen sida/komponent)
-- Spara filmer till en **favoritlista**
+- Lägga till och ta bort filmer från en **watchlist**, som man sen skall kunna se på en egen sida
 - **Användarvänlig design**: Här har ni chansen att skapa en egen design om ni inte gärna vill återanvända er gamla design
 - Appen ska vara **responsiv**
 - **Tillgänglighet**: alt-attribut, semantisk HTML, inga onödiga div:ar
