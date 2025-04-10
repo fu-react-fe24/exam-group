@@ -32,6 +32,7 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
 - **Tillgänglighet**: alt-attribut, semantisk HTML, inga onödiga div:ar
 - Använd **felhantering** vid API-anrop
 - **Ren och läsbar kod**: rätt indentering, inga onödiga upprepningar
+- **Ett agilt arbetssätt**: ni arbetar enligt de kunskaper ni förskaffat er inom det agila arbetssättet (bland annat genom att arbeta med en Kanban-board)
 
 ---
 
@@ -53,3 +54,27 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
 - Testa era API-anrop i **Postman** eller **Insomnia**
 - Tänk på återanvändbara komponenter i React
 - Reflektera över skillnaden mot er vanilla JS-version – vad blev enklare med React?
+
+---
+
+## 👥 Gruppkontrakt
+
+Ni författar i vanlig egna gruppkontrakt där ni tillsammans bestämmer hur arbetet skall gå till, vad ni förväntar er av varandra, samt hur ni hanterar olika situationer som skulle kunna uppstå. Kontrakten behöver inte skickas till mig, utan det tar vi först när jag behöver gå in och hantera en situation.
+
+---
+
+## 🧑‍🏫 Handledning
+
+Jag vill att varje grupp bokar in sig på minst ett handledningspass, så att jag kan fånga upp eventuella problem och frågeställningar, samt följa upp att allt flyter på bra. Länken till att boka in sig på ett handledningspass [hittar ni är](https://docs.google.com/spreadsheets/d/10r8y-zwTPNmwiiGzbT8L-Su75svkLeNUWy3WbbN-qns/edit?usp=sharing)
+
+---
+
+## 📥 Inlämning
+
+Alla i gruppen lämnar in en länk till gruppens gemensamma Github-repo på Azomo, senast kl 23:59 den 17/4. Glöm inte att bjuda in mig till era repon, samt projekttavlor.
+
+---
+
+## 🗣️ Opponering
+
+_(Text kommer här)_
