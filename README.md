@@ -46,6 +46,7 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
   - Specifik sökning:  
     `http://www.omdbapi.com/?apikey=[yourkey]&plot=full&i=[imdbID]`
 - Ni får gärna använda TMDB API istället om ni hellre vill det.
+- Vill ni bygga fler funktioner, alt. tweeka någon av de funktioner som beskrivs ovan så frågar ni mig först.
 
 ---
 
@@ -77,4 +78,4 @@ Alla i gruppen lämnar in en länk till gruppens gemensamma Github-repo på Azom
 
 ## 🗣️ Opponering
 
-_(Text kommer här)_
+När vi ses igen efer påsklovet kommer var och en av grupperna tilldelas en annan grupps arbete att opponera på. Detta innebär att ni under veckan skall testa, klämma och känna, sätta er in i kodbasen, för att kunna förbereda ett antal frågor inför opponeringen som kommer att hållas på kursens sista Code Review-tillfälle, den 25/4. Mer info om detta, samt vad som förväntas av er kommer ni få efter lovet.
