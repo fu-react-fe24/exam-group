@@ -9,9 +9,7 @@ Bygg en webbapp som liknar IMDB. Användare ska kunna:
 - Se trailers och topplistan (via mitt API)
 - Söka efter filmer (OMDB API)
 - Klicka på en film för att få mer info
-- Spara favoritfilmer
-
-Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan använda. Skapar ni eget, tänk på att matcha eller överträffa det visuella från template-versionen.
+- Markera filmer man vill se
 
 ---
 
@@ -52,7 +50,7 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
   - Specifik sökning:  
     `http://www.omdbapi.com/?apikey=[yourkey]&plot=full&i=[imdbID]`
 - Ni får gärna använda TMDB API istället om ni hellre vill det.
-- Vill ni bygga fler funktioner, alt. tweeka någon av de funktioner som beskrivs ovan så frågar ni mig först.
+
 
 ---
 
@@ -61,6 +59,7 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
 - Testa era API-anrop i **Postman** eller **Insomnia**
 - Tänk på återanvändbara komponenter i React
 - Reflektera över skillnaden mot er vanilla JS-version – vad blev enklare med React?
+- Vill ni bygga ut applikationen med fler funktioner, alt. tweeka någon av de funktioner som beskrivs ovan så frågar ni mig först.
 
 ---
 
