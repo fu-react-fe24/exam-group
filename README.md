@@ -33,7 +33,7 @@ Startkod finns i mappen `template`. Den innehåller stil och struktur ni kan anv
 - Använd **felhantering** vid API-anrop
 - **Ren och läsbar kod**: rätt indentering, inga onödiga upprepningar
 - **Ett agilt arbetssätt**: ni arbetar enligt de kunskaper ni förskaffat er inom det agila arbetssättet (bland annat genom att arbeta med en Kanban-board)
-- **Följande tekniker skall finnas med i er lösning**
+- **Följande tekniker/fenomen skall finnas med i er lösning**
   - Komponenter
   - Props
   - useState och useEffect
