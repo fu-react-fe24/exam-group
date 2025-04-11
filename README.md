@@ -16,7 +16,7 @@ Bygg en webbapp som liknar IMDB. Användare ska kunna:
 ## ✅ Krav (för godkänt)
 
 - Startsida med:
-  - **5 slumpade trailers** (använd gärna Chad CN för att importera en redan färdig karussel)
+  - **5 slumpade trailers** (leta gärna upp ett komponentsbibliotek så att ni kan importera en egen karusell)
   - **Topplista på våra rekommenderade filmer** (från mitt API)
 - **Sökfunktion** som använder OMDB:s breda sökning:  
   `http://www.omdbapi.com/?apikey=[yourkey]&s=[söksträng]`
