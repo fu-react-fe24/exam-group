@@ -77,7 +77,7 @@ Jag vill att varje grupp bokar in sig på minst ett handledningspass, så att ja
 
 ## 📥 Inlämning
 
-Alla i gruppen lämnar in en länk till gruppens gemensamma Github-repo på Azomo, senast kl 23:59 den 17/4. Glöm inte att bjuda in mig till era repon, samt projekttavlor.
+Alla i gruppen lämnar in en länk till gruppens gemensamma Github-repo på Azomo, senast kl 23:59 torsdagen den 17/4. Glöm inte att bjuda in mig till era repon, samt projekttavlor.
 
 ---
 
